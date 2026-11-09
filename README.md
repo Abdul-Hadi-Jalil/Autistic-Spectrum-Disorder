@@ -4,6 +4,14 @@ A Flutter and Python application that combines a developmental questionnaire, ch
 
 The project demonstrates model serving and a parent/clinical review interface. Its displayed risk bands come from questionnaire score thresholds; the Random Forest prediction is returned separately.
 
+## Mobile interface preview
+
+The parent-focused onboarding experience introduces child profiles, early-screening guidance, and the application’s supportive care workflow.
+
+<p align="center">
+  <img src="docs/images/asd-care-mobile.png" alt="ASD Care mobile onboarding interface" width="360">
+</p>
+
 ## Stack
 
 | Component | Technologies |
